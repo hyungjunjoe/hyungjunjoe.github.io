@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://www.snu.ac.kr/'>Seoul National University</a>. AI Research.
+subtitle: Integrated MS/PhD Student at <a href='https://www.snu.ac.kr/'>Seoul National University</a>. AI Research.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true
 social: true
 ---
 
-I am a PhD student at Seoul National University, working on machine learning and artificial intelligence. 
+I am an integrated MS/PhD student at Seoul National University, working on machine learning and artificial intelligence. I am currently interested in looped and recurrent transformers.
 
 Previously, I received my B.S. in Mechanical Engineering from Chung-ang Univ. in 2026. .
 
