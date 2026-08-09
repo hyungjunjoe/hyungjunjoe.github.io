@@ -20,6 +20,6 @@ social: true
 
 I am an integrated MS/PhD student at Seoul National University, working on machine learning and artificial intelligence. I am currently interested in looped and recurrent transformers.
 
-Previously, I received my B.S. in Mechanical Engineering from Chung-ang Univ. in 2026. .
+Previously, I received my B.S. in Mechanical Engineering from Chung-ang Univ. in 2026.
 
- Feel free to reach out if you'd like to discuss research, collaboration, or anything else!
+Feel free to reach out if you'd like to discuss research, collaboration, or anything else!
